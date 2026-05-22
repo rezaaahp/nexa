@@ -473,9 +473,6 @@ https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ParsTV.us" group-title="US, IR" tvg-language="fas" tvg-quality="480i",ParsTV.us
 https://parshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ParsTV.us" group-title="US, IR" tvg-language="fas" tvg-quality="480i",ParsTV.us
-http://dvrfl05.bozztv.com/gin-parstv/index.m3u8
-
 #EXTINF:-1 tvg-id="PayameArameshTV.us" group-title="US" tvg-language="fas" tvg-quality="480i",PayameArameshTV.us
 https://hls.keshishhamid.live/hls/stream.m3u8
 
