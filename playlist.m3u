@@ -313,6 +313,18 @@ http://41.205.93.154/ABC/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" group-title="US" tvg-language="eng" tvg-quality="480i",ABC.us
+http://40.160.24.52/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" group-title="US" tvg-language="eng" tvg-quality="480i",ABC.us
+http://40.160.24.52/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" group-title="US" tvg-language="eng" tvg-quality="480i",ABC.us
+http://40.160.24.52/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" group-title="US" tvg-language="eng" tvg-quality="480i",ABC.us
+http://40.160.24.52/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" group-title="US" tvg-language="eng" tvg-quality="480i",ABC.us
 http://stream.cammonitorplus.net/1797/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.us" group-title="US" tvg-language="eng" tvg-quality="480i",ABC.us
@@ -711,8 +723,14 @@ https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="ACCNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",ACCNetwork.us
 http://206.212.244.63/2486/index.m3u8
 
+#EXTINF:-1 tvg-id="ACCNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",ACCNetwork.us
+http://40.160.24.52/ACC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="AccuWeatherNetwork.us" group-title="US" tvg-language="eng" tvg-quality="576i",AccuWeatherNetwork.us
 http://206.212.244.63/674/index.m3u8
+
+#EXTINF:-1 tvg-id="AccuWeatherNetwork.us" group-title="US" tvg-language="eng" tvg-quality="576i",AccuWeatherNetwork.us
+http://40.160.24.52/AccuWeather/index.m3u8
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" group-title="US" tvg-language="eng" tvg-quality="480i",AccuWeatherNOW.us
 http://23.239.31.26:8989/accuweather/index.m3u8
@@ -771,6 +789,12 @@ http://206.212.244.63/1/index.m3u8
 
 #EXTINF:-1 tvg-id="AE.us" group-title="US" tvg-language="eng" tvg-quality="480i",AE.us
 http://206.212.244.63/1/index.m3u8
+
+#EXTINF:-1 tvg-id="AE.us" group-title="US, CA" tvg-language="eng" tvg-quality="480i",AE.us
+http://40.160.24.52/AE/index.m3u8
+
+#EXTINF:-1 tvg-id="AE.us" group-title="US" tvg-language="eng" tvg-quality="480i",AE.us
+http://40.160.24.52/AE/index.m3u8
 
 #EXTINF:-1 tvg-id="Africa24English.fr" group-title="FR, r/AFR" tvg-language="eng" tvg-quality="576i",Africa24English.fr
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
@@ -947,6 +971,9 @@ https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlphaDigital.ug" group-title="UG" tvg-language="eng" tvg-quality="576i",AlphaDigital.ug
 https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AltitudeSports.us" group-title="US" tvg-language="eng" tvg-quality="480i",AltitudeSports.us
+http://206.212.244.63/6153/index.m3u8
 
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" group-title="US" tvg-language="eng" tvg-quality="480i",AlwaysFunnyVideos.us
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
@@ -1705,19 +1732,22 @@ http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
 http://206.212.244.63/11/index.m3u8
 
 #EXTINF:-1 tvg-id="AWE.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWE.us
+http://40.160.24.52/AWE/index.m3u8
+
+#EXTINF:-1 tvg-id="AWE.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWE.us
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AWEEncore.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEEncore.us
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AWEEncore.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEEncore.us
-https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AWEEncore.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEEncore.us
-https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AWEInternational.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEInternational.us
 https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEPlus.us
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEPlus.us
+https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWEPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",AWEPlus.us
+https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNAdria.us" group-title="BA, HR, MK, ME, RS, SI" tvg-language="eng" tvg-quality="480i",AXNAdria.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -1876,6 +1906,9 @@ http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",AXSTV.us
 http://206.212.244.63/12/index.m3u8
 
+#EXTINF:-1 tvg-id="AXSTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",AXSTV.us
+http://40.160.24.52/AXS_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="BabySharkTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",BabySharkTV.us
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
@@ -1956,6 +1989,21 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.uk" group-title="US" tvg-language="eng" tvg-quality="576i",BabyTV.uk
 http://138.121.15.230:9002/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" group-title="NL" tvg-language="eng" tvg-quality="576i",BabyTV.uk
+http://200.91.32.158:8080/babytv/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" group-title="NL" tvg-language="eng" tvg-quality="1080i",BabyTV.uk
+http://200.91.32.158:8080/babytv/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" group-title="UK" tvg-language="eng" tvg-quality="576i",BabyTV.uk
+http://200.91.32.158:8080/babytv/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" group-title="UK" tvg-language="eng" tvg-quality="1080i",BabyTV.uk
+http://200.91.32.158:8080/babytv/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" group-title="US" tvg-language="eng" tvg-quality="576i",BabyTV.uk
+http://200.91.32.158:8080/babytv/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.uk" group-title="NL" tvg-language="eng" tvg-quality="576i",BabyTV.uk
 http://185.102.171.218/BabyTV/index.m3u8
@@ -2094,6 +2142,18 @@ http://206.212.244.63/13/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCAmerica.us" group-title="US" tvg-language="eng" tvg-quality="1080i",BBCAmerica.us
 http://206.212.244.63/13/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="US" tvg-language="eng" tvg-quality="480i",BBCAmerica.us
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="US" tvg-language="eng" tvg-quality="1080i",BBCAmerica.us
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="US" tvg-language="eng" tvg-quality="480i",BBCAmerica.us
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="US" tvg-language="eng" tvg-quality="1080i",BBCAmerica.us
+http://40.160.24.52/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCBrit.uk" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",BBCBrit.uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -2862,6 +2922,27 @@ http://206.212.244.63/14/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="UK" tvg-language="eng" tvg-quality="1080i",BBCNews.uk
 http://206.212.244.63/14/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="r/EUR" tvg-language="eng" tvg-quality="1080i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="r/MIDEAST" tvg-language="eng" tvg-quality="576i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="r/NORAM" tvg-language="eng" tvg-quality="576i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="r/SAS" tvg-language="eng" tvg-quality="576i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="UK" tvg-language="eng" tvg-quality="576i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="UK" tvg-language="eng" tvg-quality="1080i",BBCNews.uk
+http://40.160.24.52/BBC_WORLD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",BBCNews.uk
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
@@ -8758,10 +8839,22 @@ http://84.17.50.102/bet/index.m3u8
 http://84.17.50.102/bet/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.us" group-title="US" tvg-language="eng" tvg-quality="480i",BET.us
+http://40.160.24.52/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" group-title="US" tvg-language="eng" tvg-quality="480i",BET.us
+http://40.160.24.52/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" group-title="US" tvg-language="eng" tvg-quality="480i",BET.us
 http://206.212.244.63/16/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.us" group-title="US" tvg-language="eng" tvg-quality="480i",BET.us
 http://206.212.244.63/16/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" group-title="US" tvg-language="eng" tvg-quality="480i",BET.us
+http://40.160.24.52/BET_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" group-title="US" tvg-language="eng" tvg-quality="480i",BET.us
+http://40.160.24.52/BET_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="BETCinema.us" group-title="US" tvg-language="eng" tvg-quality="720p",BETCinema.us
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
@@ -8785,6 +8878,15 @@ http://41.205.93.154/BETHER/index.m3u8
 http://41.205.93.154/BETHER/index.m3u8
 
 #EXTINF:-1 tvg-id="BETHer.us" group-title="r/CARIB" tvg-language="eng" tvg-quality="480i",BETHer.us
+http://40.160.24.52/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-id="BETHer.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETHer.us
+http://40.160.24.52/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-id="BETHer.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETHer.us
+http://40.160.24.52/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-id="BETHer.us" group-title="r/CARIB" tvg-language="eng" tvg-quality="480i",BETHer.us
 http://206.212.244.63/19/index.m3u8
 
 #EXTINF:-1 tvg-id="BETHer.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETHer.us
@@ -8795,6 +8897,9 @@ http://206.212.244.63/19/index.m3u8
 
 #EXTINF:-1 tvg-id="BETJams.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETJams.us
 http://206.212.244.63/20/index.m3u8
+
+#EXTINF:-1 tvg-id="BETJams.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETJams.us
+http://40.160.24.52/BET_JAMS/index.m3u8
 
 #EXTINF:-1 tvg-id="BETPlutoTV.de" group-title="UK, IE" tvg-language="eng" tvg-quality="720p",BETPlutoTV.de
 https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
@@ -8807,6 +8912,9 @@ https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 
 #EXTINF:-1 tvg-id="BETSoul.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETSoul.us
 http://206.212.244.63/21/index.m3u8
+
+#EXTINF:-1 tvg-id="BETSoul.us" group-title="US" tvg-language="eng" tvg-quality="480i",BETSoul.us
+http://40.160.24.52/BET_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-id="BetterHealthTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",BetterHealthTV.us
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
@@ -8858,6 +8966,9 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 #EXTINF:-1 tvg-id="BigTenNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",BigTenNetwork.us
 http://206.212.244.63/2489/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",BigTenNetwork.us
+http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="BilliardTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",BilliardTV.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -9890,6 +10001,9 @@ http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bounce.us
 http://206.212.244.63/23/index.m3u8
 
+#EXTINF:-1 tvg-id="Bounce.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bounce.us
+http://40.160.24.58/BOUNCE_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="BounceXL.us" group-title="US" tvg-language="eng" tvg-quality="480i",BounceXL.us
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
@@ -9927,10 +10041,22 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://41.205.93.154/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bravo.us
+http://40.160.24.52/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bravo.us
+http://40.160.24.52/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bravo.us
 http://206.212.244.63/26/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bravo.us
 http://206.212.244.63/26/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bravo.us
+http://40.160.24.52/BRAVO_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" group-title="US" tvg-language="eng" tvg-quality="480i",Bravo.us
+http://40.160.24.52/BRAVO_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" group-title="s/US-FL" tvg-language="eng" tvg-quality="480i",BrevardGovernmentAccessTV.us
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
@@ -10031,10 +10157,10 @@ https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",CaliforniaMusicChannel.us
-https://cmc-ono.amagi.tv/playlist.m3u8
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",CaliforniaMusicChannel.us
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",CaliforniaMusicChannel.us
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
@@ -10093,6 +10219,9 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl" group-title="PL, r/EUR" tvg-language="eng" tvg-quality="1080i",CartoonClassics.pl
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+
+#EXTINF:-1 tvg-id="CatchyComedy.us" group-title="US" tvg-language="eng" tvg-quality="480i",CatchyComedy.us
+http://40.160.24.52/DECADES/index.m3u8
 
 #EXTINF:-1 tvg-id="CatholicFaithNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",CatholicFaithNetwork.us
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
@@ -10264,6 +10393,9 @@ https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us" group-title="US" tvg-language="eng" tvg-quality="480i",CBSNews247.us
 https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us" group-title="US" tvg-language="eng" tvg-quality="480i",CBSNews247.us
+http://40.160.24.56/CBS_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us" group-title="US" tvg-language="eng" tvg-quality="480i",CBSNews247.us
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
@@ -10583,6 +10715,9 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us" group-title="US" tvg-language="eng" tvg-quality="480i",Charge.us
 http://206.212.244.63/34/index.m3u8
 
+#EXTINF:-1 tvg-id="Charge.us" group-title="US" tvg-language="eng" tvg-quality="480i",Charge.us
+http://40.160.24.52/CHARGE/index.m3u8
+
 #EXTINF:-1 tvg-id="CHCHDT.ca" group-title="ct/CAHAM" tvg-language="eng" tvg-quality="480i",CHCHDT.ca
 http://185.246.209.113/CHCHHD/index.m3u8
 
@@ -10593,10 +10728,16 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 http://206.212.244.63/35/index.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",CheddarNews.us
+http://40.160.24.52/CHEDDAR_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CheddarNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",CheddarNews.us
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CheddarNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",CheddarNews.us
 https://aegis-cloudfront-1.tubi.video/27ff1997-507a-41c4-8433-08875fe5f40f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CheddarU.us" group-title="US" tvg-language="eng" tvg-quality="480i",CheddarU.us
+http://40.160.24.52/CHEDDAR_BUSINESS/index.m3u8
 
 #EXTINF:-1 tvg-id="Cheers.us" group-title="CA" tvg-language="eng" tvg-quality="720p",Cheers.us
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
@@ -10776,6 +10917,9 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 #EXTINF:-1 tvg-id="CleoTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CleoTV.us
 http://206.212.244.63/38/index.m3u8
 
+#EXTINF:-1 tvg-id="CleoTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CleoTV.us
+http://40.160.24.52/Cleo_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="ClergyTV.ke" group-title="KE" tvg-language="eng" tvg-quality="576i",ClergyTV.ke
 https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
 
@@ -10812,6 +10956,9 @@ https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 #EXTINF:-1 tvg-id="CMAPChannel20.us" group-title="ct/USGIR" tvg-language="eng" tvg-quality="480i",CMAPChannel20.us
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",CMCUSACountryMusicChannel.us
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CMT.us" group-title="US" tvg-language="eng" tvg-quality="480i",CMT.us
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 
@@ -10823,6 +10970,12 @@ http://206.212.244.63/39/index.m3u8
 
 #EXTINF:-1 tvg-id="CMT.us" group-title="US" tvg-language="eng" tvg-quality="480i",CMT.us
 http://206.212.244.63/39/index.m3u8
+
+#EXTINF:-1 tvg-id="CMT.us" group-title="US" tvg-language="eng" tvg-quality="480i",CMT.us
+http://40.160.24.52/CMT/index.m3u8
+
+#EXTINF:-1 tvg-id="CMT.us" group-title="US" tvg-language="eng" tvg-quality="480i",CMT.us
+http://40.160.24.52/CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" group-title="US" tvg-language="eng" tvg-quality="480i",CMTEqualPlay.us
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
@@ -10966,6 +11119,15 @@ http://cdn.haititivi.net/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" group-title="US" tvg-language="eng" tvg-quality="480i",ComedyCentral.us
 http://cdn.haititivi.net/COMEDY-CENTRAL/index.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="CA" tvg-language="eng" tvg-quality="720p",ComedyCentral.us
+http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="US" tvg-language="eng" tvg-quality="480i",ComedyCentral.us
+http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="US" tvg-language="eng" tvg-quality="480i",ComedyCentral.us
+http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentralAnimation.us" group-title="US" tvg-language="eng" tvg-quality="480i",ComedyCentralAnimation.us
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 
@@ -10995,6 +11157,9 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us" group-title="US" tvg-language="eng" tvg-quality="480i",Comet.us
 http://206.212.244.63/46/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" group-title="US" tvg-language="eng" tvg-quality="480i",Comet.us
+http://40.160.24.52/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="Community12TV.us" group-title="ct/USGNV" tvg-language="eng" tvg-quality="480i",Community12TV.us
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
@@ -11054,6 +11219,9 @@ http://185.246.209.113/CottageLife/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CourtTV.us
+http://40.160.24.52/COURT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CourtTV.us
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CourtTV.us
@@ -11070,6 +11238,9 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="CoziTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CoziTV.us
 http://206.212.244.63/49/index.m3u8
+
+#EXTINF:-1 tvg-id="CoziTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",CoziTV.us
+http://40.160.24.52/COZI_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="CP24.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",CP24.ca
 https://trs1.aynaott.com/cp24/index.m3u8
@@ -11214,6 +11385,9 @@ https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 
 #EXTINF:-1 tvg-id="CypressChannel36.us" group-title="ct/USCYQ" tvg-language="eng" tvg-quality="480i",CypressChannel36.us
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dabl.us" group-title="US" tvg-language="eng" tvg-quality="480i",Dabl.us
+http://40.160.24.56/DABL/index.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" group-title="EE" tvg-language="eng" tvg-quality="576i",DanceTVAlgorhythm.ee
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
@@ -11586,6 +11760,9 @@ https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 
 #EXTINF:-1 tvg-id="DoveChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",DoveChannel.us
+http://206.212.244.63/6134/index.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",DoveChannel.us
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DoveChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",DoveChannel.us
@@ -11847,11 +12024,17 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",ESPNews.us
 http://41.223.30.230/ESPNNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",ESPNews.us
+http://40.160.24.52/ESPN_NEWS/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPNU.us" group-title="US" tvg-language="eng" tvg-quality="480i",ESPNU.us
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.us" group-title="US" tvg-language="eng" tvg-quality="480i",ESPNU.us
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us" group-title="US" tvg-language="eng" tvg-quality="480i",ESPNU.us
+http://40.160.24.52/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-id="ETNow.in" group-title="IN" tvg-language="eng" tvg-quality="576i",ETNow.in
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
@@ -12249,8 +12432,14 @@ https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us" group-title="US" tvg-language="eng" tvg-quality="480i",FamilyTies.us
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
+#EXTINF:-1 tvg-id="FanDuelRacing.us" group-title="US" tvg-language="eng" tvg-quality="480i",FanDuelRacing.us
+http://206.212.244.63/6139/index.m3u8
+
 #EXTINF:-1 tvg-id="FanDuelTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",FanDuelTV.us
 http://40.160.24.55/TVG/index.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",FanDuelTV.us
+http://206.212.244.63/6138/index.m3u8
 
 #EXTINF:-1 tvg-id="FarajaTelevision.ug" group-title="UG" tvg-language="eng" tvg-quality="576i",FarajaTelevision.ug
 https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
@@ -12655,6 +12844,12 @@ http://84.17.50.102/fox/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fox.us
+http://40.160.24.52/FOX/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fox.us
+http://40.160.24.52/FOX/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fox.us
 http://stream.cammonitorplus.net/1799/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fox.us
@@ -12665,6 +12860,9 @@ http://206.212.244.63/66/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxBusinessNetwork.us
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxBusinessNetwork.us
+http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxNewsChannel.us
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -12681,8 +12879,14 @@ http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxNewsChannel.us
 http://167.250.126.140:7777/FOXNEWS-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxNewsChannel.us
+http://40.160.24.52/FOX_NEWS/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxNewsRadio.us
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxSoccerPlus.us
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSoul.us" group-title="US" tvg-language="eng" tvg-quality="480i",FoxSoul.us
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
@@ -12982,6 +13186,12 @@ http://206.212.244.63/69/index.m3u8
 http://206.212.244.63/69/index.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.us" group-title="US" tvg-language="eng" tvg-quality="480i",Freeform.us
+http://40.160.24.52/FREEFORM/index.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" group-title="US" tvg-language="eng" tvg-quality="480i",Freeform.us
+http://40.160.24.52/FREEFORM/index.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" group-title="US" tvg-language="eng" tvg-quality="480i",Freeform.us
 http://206.212.244.63/70/index.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.us" group-title="US" tvg-language="eng" tvg-quality="480i",Freeform.us
@@ -13141,6 +13351,12 @@ http://206.212.244.63/72/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fuse.us
 http://206.212.244.63/72/index.m3u8
 
+#EXTINF:-1 tvg-id="Fuse.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fuse.us
+http://40.160.24.52/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.us" group-title="US" tvg-language="eng" tvg-quality="480i",Fuse.us
+http://40.160.24.52/FUSE/index.m3u8
+
 #EXTINF:-1 tvg-id="FX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FX.us
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
@@ -13153,11 +13369,29 @@ http://84.17.50.102/fx/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FX.us
 http://84.17.50.102/fx/index.m3u8
 
+#EXTINF:-1 tvg-id="FX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FX.us
+http://40.160.24.52/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FX.us
+http://40.160.24.52/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM.us" group-title="US" tvg-language="eng" tvg-quality="480i",FXM.us
+http://40.160.24.52/FXM/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM.us" group-title="US" tvg-language="eng" tvg-quality="480i",FXM.us
+http://40.160.24.52/FXM/index.m3u8
+
 #EXTINF:-1 tvg-id="FXX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FXX.us
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FXX.us
 http://23.237.104.106:8080/USA_FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FXX.us
+http://40.160.24.52/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.us" group-title="US" tvg-language="eng" tvg-quality="480i",FXX.us
+http://40.160.24.52/FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="FYI.us" group-title="US" tvg-language="eng" tvg-quality="480i",FYI.us
 http://206.212.244.63/78/index.m3u8
@@ -13192,6 +13426,15 @@ https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_
 
 #EXTINF:-1 tvg-id="GameShowCentral.us" group-title="US" tvg-language="eng" tvg-quality="480i",GameShowCentral.us
 https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",GameShowNetwork.us
+http://40.160.24.52/GSN/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",GameShowNetwork.us
+http://40.160.24.52/GSN/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",GameShowNetwork.us
+http://40.160.24.52/GSN/index.m3u8
 
 #EXTINF:-1 tvg-id="GameShowNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",GameShowNetwork.us
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
@@ -13439,6 +13682,9 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="US, CA" tvg-language="eng" tvg-quality="480i",GolfChannel.us
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
 
+#EXTINF:-1 tvg-id="GolfChannel.us" group-title="US, CA" tvg-language="eng" tvg-quality="480i",GolfChannel.us
+http://40.160.24.52/GOLF_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="GolfZone.pl" group-title="PL" tvg-language="eng" tvg-quality="576i",GolfZone.pl
 http://91.146.94.234:10001/play/a04b
 
@@ -13514,8 +13760,14 @@ https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" group-title="US" tvg-language="eng" tvg-quality="480i",GreatAmericanFaithLiving.us
 http://206.212.244.63/82/index.m3u8
 
+#EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" group-title="US" tvg-language="eng" tvg-quality="480i",GreatAmericanFaithLiving.us
+http://40.160.24.52/GAC_LIVING/index.m3u8
+
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="US" tvg-language="eng" tvg-quality="480i",GreatAmericanFamily.us
 http://206.212.244.63/81/index.m3u8
+
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="US" tvg-language="eng" tvg-quality="480i",GreatAmericanFamily.us
+http://40.160.24.58/GAC_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" group-title="US" tvg-language="eng" tvg-quality="480i",GreatEntertainmentTelevision.us
 http://206.212.244.63/80/index.m3u8
@@ -13564,6 +13816,9 @@ https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 
 #EXTINF:-1 tvg-id="Grit.us" group-title="US" tvg-language="eng" tvg-quality="480i",Grit.us
 http://206.212.244.63/83/index.m3u8
+
+#EXTINF:-1 tvg-id="Grit.us" group-title="US" tvg-language="eng" tvg-quality="480i",Grit.us
+http://40.160.24.52/GRIT/index.m3u8
 
 #EXTINF:-1 tvg-id="GritXtra.us" group-title="US" tvg-language="eng" tvg-quality="480i",GritXtra.us
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
@@ -13641,8 +13896,17 @@ http://206.212.244.63/84/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkChannel.us
 http://206.212.244.63/84/index.m3u8
 
+#EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkChannel.us
+http://40.160.24.53/HALLMARK/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkChannel.us
+http://40.160.24.53/HALLMARK/index.m3u8
+
 #EXTINF:-1 tvg-id="HallmarkFamily.us" group-title="US" tvg-language="eng" tvg-quality="1080p",HallmarkFamily.us
 http://206.212.244.63/85/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkFamily.us" group-title="US" tvg-language="eng" tvg-quality="1080p",HallmarkFamily.us
+http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkMoviesMore.us
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
@@ -13658,6 +13922,12 @@ http://206.212.244.63/86/index.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMystery.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkMystery.us
 http://206.212.244.63/86/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkMystery.us
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" group-title="US" tvg-language="eng" tvg-quality="480i",HallmarkMystery.us
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyDays.us" group-title="CA" tvg-language="eng" tvg-quality="720p",HappyDays.us
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
@@ -13933,6 +14203,12 @@ http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="History.us" group-title="US" tvg-language="eng" tvg-quality="480i",History.us
 http://212.5.144.156:8080/history/index.m3u8
 
+#EXTINF:-1 tvg-id="History.us" group-title="US" tvg-language="eng" tvg-quality="480i",History.us
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="History.us" group-title="US" tvg-language="eng" tvg-quality="480i",History.us
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="HistoryHit.uk" group-title="US" tvg-language="eng" tvg-quality="480i",HistoryHit.uk
 https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 
@@ -14149,6 +14425,12 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 
 #EXTINF:-1 tvg-id="HSN.us" group-title="US" tvg-language="eng" tvg-quality="480i",HSN.us
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" group-title="US" tvg-language="eng" tvg-quality="480i",HSN.us
+http://40.160.24.53/HSN/index.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" group-title="US" tvg-language="eng" tvg-quality="480i",HSN.us
+http://40.160.24.53/HSN/index.m3u8
 
 #EXTINF:-1 tvg-id="HSN.us" group-title="US" tvg-language="eng" tvg-quality="480i",HSN.us
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
@@ -14431,6 +14713,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IONPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONPlus.us
+http://40.160.24.53/ION_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONPlus.us
+http://40.160.24.53/ION_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONPlus.us
 https://pb-tcsruiaw9dc0i.akamaized.net/Ion_Plus_US.m3u8
 
 #EXTINF:-1 tvg-id="IONPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONPlus.us
@@ -14465,6 +14753,18 @@ http://206.212.244.63/99/index.m3u8
 
 #EXTINF:-1 tvg-id="IONTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONTV.us
 http://206.212.244.63/99/index.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONTV.us
+http://40.160.24.53/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONTV.us
+http://40.160.24.53/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONTV.us
+http://40.160.24.53/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="IONTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONTV.us
+http://40.160.24.53/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="IONTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",IONTV.us
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
@@ -14891,6 +15191,9 @@ https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_
 #EXTINF:-1 tvg-id="JusticeCentralTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",JusticeCentralTV.us
 http://206.212.244.63/100/index.m3u8
 
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",JusticeCentralTV.us
+http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8
+
 #EXTINF:-1 tvg-id="K24.ke" group-title="KE" tvg-language="eng" tvg-quality="576i",K24.ke
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
 
@@ -15240,9 +15543,6 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 #EXTINF:-1 tvg-id="KXASTV51.us" group-title="ct/USFWT" tvg-language="eng" tvg-quality="1080i",KXASTV51.us
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
 
-#EXTINF:-1 tvg-id="KXASTV51.us" group-title="ct/USFWT" tvg-language="eng" tvg-quality="1080i",KXASTV51.us
-https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KXXV251.us" group-title="ct/USACT" tvg-language="eng" tvg-quality="720p",KXXV251.us
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 
@@ -15257,6 +15557,9 @@ https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Laff.us" group-title="US" tvg-language="eng" tvg-quality="480i",Laff.us
 http://206.212.244.63/101/index.m3u8
+
+#EXTINF:-1 tvg-id="Laff.us" group-title="US" tvg-language="eng" tvg-quality="480i",Laff.us
+http://40.160.24.53/LAFF_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="LakeFrontTV.us" group-title="s/US-FL" tvg-language="eng" tvg-quality="480i",LakeFrontTV.us
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
@@ -15349,8 +15652,20 @@ http://cdn.haititivi.net/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" group-title="US" tvg-language="eng" tvg-quality="480i",Lifetime.us
 http://cdn.haititivi.net/LIFETIME/index.m3u8
 
+#EXTINF:-1 tvg-id="Lifetime.us" group-title="US" tvg-language="eng" tvg-quality="480i",Lifetime.us
+http://40.160.24.53/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" group-title="US" tvg-language="eng" tvg-quality="480i",Lifetime.us
+http://40.160.24.53/LIFETIME/index.m3u8
+
 #EXTINF:-1 tvg-id="LifetimeMovies.us" group-title="US" tvg-language="eng" tvg-quality="480i",LifetimeMovies.us
 http://23.237.104.106:8080/USA_LMN/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeMovies.us" group-title="US" tvg-language="eng" tvg-quality="480i",LifetimeMovies.us
+http://40.160.24.53/LMN/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us" group-title="US" tvg-language="eng" tvg-quality="480i",LifetimeRealWomen.us
+http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
 
 #EXTINF:-1 tvg-id="LifevisionTV.us" group-title="ct/USDAB" tvg-language="eng" tvg-quality="480i",LifevisionTV.us
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
@@ -15544,6 +15859,9 @@ https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" group-title="IQ" tvg-language="eng" tvg-quality="576i",MarjaeyatTVEnglish.iq
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",MarqueeSportsNetwork.us
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="MarriedwithChildren.us" group-title="UK" tvg-language="eng" tvg-quality="576i",MarriedwithChildren.us
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 
@@ -15633,6 +15951,9 @@ https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffb
 
 #EXTINF:-1 tvg-id="MeTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",MeTV.us
 http://206.212.244.63/108/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",MeTV.us
+http://40.160.24.53/METV/index.m3u8
 
 #EXTINF:-1 tvg-id="MeTVPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",MeTVPlus.us
 http://206.212.244.63/111/index.m3u8
@@ -16075,6 +16396,9 @@ http://41.223.30.230/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MSNOW.us" group-title="US" tvg-language="eng" tvg-quality="480i",MSNOW.us
 http://cdn.haititivi.com/MSNBC/index.m3u8
 
+#EXTINF:-1 tvg-id="MSNOW.us" group-title="US" tvg-language="eng" tvg-quality="480i",MSNOW.us
+http://40.160.24.53/MSNBC/index.m3u8
+
 #EXTINF:-1 tvg-id="MST3K.us" group-title="UK" tvg-language="eng" tvg-quality="576i",MST3K.us
 https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
 
@@ -16202,6 +16526,15 @@ http://206.212.244.63/117/index.m3u8
 http://206.212.244.63/117/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVClassic.us" group-title="CA" tvg-language="eng" tvg-quality="720p",MTVClassic.us
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us" group-title="US" tvg-language="eng" tvg-quality="480i",MTVClassic.us
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us" group-title="US" tvg-language="eng" tvg-quality="480i",MTVClassic.us
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us" group-title="CA" tvg-language="eng" tvg-quality="720p",MTVClassic.us
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
 #EXTINF:-1 tvg-id="MTVClassic.us" group-title="US" tvg-language="eng" tvg-quality="480i",MTVClassic.us
@@ -16247,6 +16580,9 @@ http://41.205.77.102/MTVUSA/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" group-title="US" tvg-language="eng" tvg-quality="480i",MTVLive.us
 http://206.212.244.63/118/index.m3u8
 
+#EXTINF:-1 tvg-id="MTVLive.us" group-title="US" tvg-language="eng" tvg-quality="480i",MTVLive.us
+http://40.160.24.53/MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-id="MTVPlutoTV.de" group-title="UK, IE" tvg-language="eng" tvg-quality="720p",MTVPlutoTV.de
 https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
 
@@ -16291,6 +16627,9 @@ https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:-1 tvg-id="MTVU.us" group-title="US" tvg-language="eng" tvg-quality="480i",MTVU.us
 http://206.212.244.63/119/index.m3u8
+
+#EXTINF:-1 tvg-id="Much.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",Much.ca
+http://40.160.24.53/MUCH/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz" group-title="CZ" tvg-language="eng" tvg-quality="576i",MusicBoxClassic.cz
 http://88.212.15.19/live/mb_classic/index.m3u8
@@ -16611,6 +16950,9 @@ https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" group-title="US" tvg-language="eng" tvg-quality="480i",NBATV.us
+http://40.160.24.58/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" group-title="US" tvg-language="eng" tvg-quality="480i",NBATV.us
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" group-title="US" tvg-language="eng" tvg-quality="480i",NBATV.us
@@ -16700,6 +17042,12 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="US, UK" tvg-language="eng" tvg-quality="480i",NBCNewsNOW.us
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="NBCSN.us" group-title="US" tvg-language="eng" tvg-quality="480i",NBCSN.us
+http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" group-title="US" tvg-language="eng" tvg-quality="480i",NBCSportsChicago.us
+http://206.212.244.63/6141/index.m3u8
+
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" group-title="US" tvg-language="eng" tvg-quality="1080p",NBCSportsNOW.us
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
@@ -16756,6 +17104,9 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 
 #EXTINF:-1 tvg-id="NESN.us" group-title="US" tvg-language="eng" tvg-quality="480i",NESN.us
 http://23.237.104.106:8080/USA_NESN/index.m3u8
+
+#EXTINF:-1 tvg-id="NESN.us" group-title="US" tvg-language="eng" tvg-quality="480i",NESN.us
+http://40.160.24.52/NESN/index.m3u8
 
 #EXTINF:-1 tvg-id="NEWKMOVIES.us" group-title="US" tvg-language="eng" tvg-quality="480i",NEWKMOVIES.us
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
@@ -16854,6 +17205,9 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 http://206.212.244.63/128/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",NewsmaxTV.us
+http://40.160.24.53/NEWSMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",NewsmaxTV.us
 https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",NewsmaxTV.us
@@ -16861,6 +17215,9 @@ https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.us" group-title="US" tvg-language="eng" tvg-quality="480i",NewsNation.us
 http://206.212.244.63/712/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNation.us" group-title="US" tvg-language="eng" tvg-quality="480i",NewsNation.us
+http://40.160.24.58/NEWSNATION/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNet.us" group-title="US" tvg-language="eng" tvg-quality="480i",NewsNet.us
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
@@ -16891,6 +17248,12 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",NFLNetwork.us
 http://45.189.62.33:8002/play/a0kk/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",NFLNetwork.us
+http://40.160.24.53/NFL_Network/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",NHLNetwork.us
+http://40.160.24.55/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",NHLNetwork.us
 https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -17287,12 +17650,12 @@ https://hls.newworldtv.com/nw-info-2/video/live.m3u8
 #EXTINF:-1 tvg-id="NYXT.us" group-title="US" tvg-language="eng" tvg-quality="480i",NYXT.us
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 
-#EXTINF:-1 tvg-id="OANEncore.us" group-title="US" tvg-language="eng" tvg-quality="480i",OANEncore.us
-https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
-
 #EXTINF:-1 tvg-id="OANPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",OANPlus.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8?ads.vf=SVKVXmuK18W
+
+#EXTINF:-1 tvg-id="OANPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",OANPlus.us
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",OANPlus.us
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
@@ -17302,6 +17665,9 @@ https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OANPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",OANPlus.us
 https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8
+
+#EXTINF:-1 tvg-id="OANPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",OANPlus.us
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OCNTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",OCNTV.us
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
@@ -17347,12 +17713,6 @@ http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",OneAmericaNewsNetwork.us
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",OneAmericaNewsNetwork.us
-https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",OneAmericaNewsNetwork.us
-https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OneGolf.pk" group-title="PK" tvg-language="eng" tvg-quality="576i",OneGolf.pk
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -17437,6 +17797,12 @@ http://206.212.244.63/2507/index.m3u8
 http://206.212.244.63/2507/index.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="US, CA" tvg-language="eng" tvg-quality="1080i",OutdoorChannel.us
+http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="US, CA" tvg-language="eng" tvg-quality="480i",OutdoorChannel.us
+http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="US, CA" tvg-language="eng" tvg-quality="1080i",OutdoorChannel.us
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="US, CA" tvg-language="eng" tvg-quality="480i",OutdoorChannel.us
@@ -17480,6 +17846,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="OutsideTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",OutsideTV.us
 http://206.212.244.63/2508/index.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",OutsideTV.us
+http://40.160.24.55/OUTSIDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="OutsideTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",OutsideTV.us
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
@@ -17558,6 +17927,12 @@ http://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",ParamountNetwork.us
 http://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="US, CA" tvg-language="eng" tvg-quality="480i",ParamountNetwork.us
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",ParamountNetwork.us
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" group-title="US" tvg-language="eng" tvg-quality="480i",ParamountPlusPicks.us
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
@@ -18525,6 +18900,9 @@ http://103.250.28.74:8000/play/a04g/index.m3u8
 http://206.212.244.63/140/index.m3u8
 
 #EXTINF:-1 tvg-id="PursuitChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",PursuitChannel.us
+http://40.160.24.55/PURSUIT/index.m3u8
+
+#EXTINF:-1 tvg-id="PursuitChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",PursuitChannel.us
 https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PursuitUP.us" group-title="US" tvg-language="eng" tvg-quality="480i",PursuitUP.us
@@ -18601,6 +18979,9 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 http://206.212.244.63/141/index.m3u8
 
 #EXTINF:-1 tvg-id="QVC.us" group-title="US" tvg-language="eng" tvg-quality="480i",QVC.us
+http://40.160.24.55/QVC/index.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" group-title="US" tvg-language="eng" tvg-quality="480i",QVC.us
 https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QVC.us" group-title="US" tvg-language="eng" tvg-quality="480i",QVC.us
@@ -18646,6 +19027,9 @@ https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="RacerNetwork.us" group-title="r/AMER, r/EMEA, r/APAC" tvg-language="eng" tvg-quality="480i",RacerNetwork.us
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RacerNetwork.us" group-title="r/AMER, r/EMEA, r/APAC" tvg-language="eng" tvg-quality="480i",RacerNetwork.us
+http://40.160.24.52/MAV_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="RacerSelect.us" group-title="r/WW" tvg-language="eng" tvg-quality="480i",RacerSelect.us
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
@@ -19185,6 +19569,9 @@ http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="Revolt.us" group-title="US" tvg-language="eng" tvg-quality="480i",Revolt.us
 http://206.212.244.63/145/index.m3u8
 
+#EXTINF:-1 tvg-id="Revolt.us" group-title="US" tvg-language="eng" tvg-quality="480i",Revolt.us
+http://40.160.24.58/REVOLT/index.m3u8
+
 #EXTINF:-1 tvg-id="Revry.us" group-title="US" tvg-language="eng" tvg-quality="480i",Revry.us
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 
@@ -19505,6 +19892,9 @@ https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ScrippsNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",ScrippsNews.us
+http://40.160.24.53/SCRIPPS_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ScrippsNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",ScrippsNews.us
 https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8
 
 #EXTINF:-1 tvg-id="ScrippsNews.us" group-title="US" tvg-language="eng" tvg-quality="480i",ScrippsNews.us
@@ -19521,6 +19911,9 @@ https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 
 #EXTINF:-1 tvg-id="SECNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",SECNetwork.us
 http://206.212.244.63/2511/index.m3u8
+
+#EXTINF:-1 tvg-id="SECNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",SECNetwork.us
+http://40.160.24.55/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="SensingMurder.us" group-title="UK" tvg-language="eng" tvg-quality="576i",SensingMurder.us
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
@@ -19711,6 +20104,9 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" group-title="AU" tvg-language="eng" tvg-quality="576i",SkyThoroughbredCentral.au
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 
+#EXTINF:-1 tvg-id="Slice.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",Slice.ca
+http://40.160.24.55/SLICE/index.m3u8
+
 #EXTINF:-1 tvg-id="SLOCountyChannel21.us" group-title="ct/USMJK" tvg-language="eng" tvg-quality="480i",SLOCountyChannel21.us
 https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8
 
@@ -19875,15 +20271,15 @@ https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" group-title="US" tvg-language="eng" tvg-quality="480i",SportsGrid.us
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SportsmanChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",SportsmanChannel.us
+http://40.160.24.55/Sportsman_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" group-title="US" tvg-language="eng" tvg-quality="480i",SportsNetNewYork.us
+http://40.160.24.55/SNY/index.m3u8
+
 #EXTINF:-1 tvg-id="SportsTVPlus.us" group-title="US" tvg-language="eng" tvg-quality="480i",SportsTVPlus.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
-
-#EXTINF:-1 tvg-id="SPOTV2.id" group-title="ID" tvg-language="eng" tvg-quality="576i",SPOTV2.id
-http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
-
-#EXTINF:-1 tvg-id="SPOTV.id" group-title="ID" tvg-language="eng" tvg-quality="576i",SPOTV.id
-http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 
 #EXTINF:-1 tvg-id="SPTV.us" group-title="s/US-FL" tvg-language="eng" tvg-quality="480i",SPTV.us
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
@@ -19920,6 +20316,9 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
 #EXTINF:-1 tvg-id="StartTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",StartTV.us
 http://206.212.244.63/150/index.m3u8
+
+#EXTINF:-1 tvg-id="StartTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",StartTV.us
+http://40.160.24.55/START_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" group-title="CA, IN" tvg-language="eng" tvg-quality="480i",StingrayClassicRock.ca
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -20415,6 +20814,12 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
 #EXTINF:-1 tvg-id="TeenNick.pl" group-title="PL" tvg-language="eng" tvg-quality="576i",TeenNick.pl
 http://91.146.94.234:10001/play/a08o
 
+#EXTINF:-1 tvg-id="TeenNick.us" group-title="US" tvg-language="eng" tvg-quality="480i",TeenNick.us
+http://40.160.24.55/TEEN_NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.us" group-title="US" tvg-language="eng" tvg-quality="480i",TeenNick.us
+http://40.160.24.55/TEEN_NICK/index.m3u8
+
 #EXTINF:-1 tvg-id="Tele7.es" group-title="ES" tvg-language="eng" tvg-quality="576i",Tele7.es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
@@ -20475,6 +20880,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" group-title="VE, r/AMER, r/SSA, r/EUR" tvg-language="eng" tvg-quality="1080p",Telesur.ve
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" group-title="VE, r/AMER, r/SSA, r/EUR" tvg-language="eng" tvg-quality="576i",Telesur.ve
+http://200.91.32.158:8080/telesur/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" group-title="VE, r/AMER, r/SSA, r/EUR" tvg-language="eng" tvg-quality="1080p",Telesur.ve
+http://200.91.32.158:8080/telesur/index.m3u8
 
 #EXTINF:-1 tvg-id="Teletubbies.uk" group-title="UK" tvg-language="eng" tvg-quality="576i",Teletubbies.uk
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
@@ -20604,6 +21015,15 @@ http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",TennisChannel.us
 http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",TennisChannel.us
+http://206.212.244.63/6149/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",TennisChannel.us
+http://206.212.244.63/6149/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",TennisChannel.us
+http://206.212.244.63/6149/index.m3u8
 
 #EXTINF:-1 tvg-id="TenSportsPakistan.pk" group-title="PK" tvg-language="eng" tvg-quality="576i",TenSportsPakistan.pk
 http://121.91.61.106:8000/play/a04h/index.m3u8
@@ -20827,6 +21247,9 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheCowboyChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",TheCowboyChannel.us
 http://206.212.244.63/155/index.m3u8
+
+#EXTINF:-1 tvg-id="TheCowboyChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",TheCowboyChannel.us
+http://40.160.24.52/THE_COWBOY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TheCowboyChannelCanada.ca
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
@@ -21691,16 +22114,16 @@ https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 http://185.246.209.113/T+E/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",TraceGospel.fr
-https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",TraceGospel.fr
-https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",TraceGospel.fr
-https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceJama.fr" group-title="FR" tvg-language="eng" tvg-quality="576i",TraceJama.fr
-https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
+https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceLatina.uk" group-title="UK" tvg-language="eng" tvg-quality="576i",TraceLatina.uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -21713,7 +22136,7 @@ https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceNgoma.fr" group-title="r/AFR" tvg-language="eng" tvg-quality="576i",TraceNgoma.fr
-https://channels.trace.plus/Traceprod/AFRICA_EN_ld/index.m3u8
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceSportStars.fr
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -21737,10 +22160,10 @@ http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceSportStars.fr
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUK.uk" group-title="UK" tvg-language="eng" tvg-quality="1080p",TraceUK.uk
-https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8
+https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUK.uk" group-title="UK" tvg-language="eng" tvg-quality="1080p",TraceUK.uk
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
@@ -21752,7 +22175,6 @@ https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceUrban.fr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceUrban.fr
@@ -21760,9 +22182,6 @@ https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceUrban.fr
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceUrban.fr
-https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="r/EU" tvg-language="eng" tvg-quality="576i",TraceUrban.fr
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
@@ -21883,8 +22302,23 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="TshwaneTV.za" group-title="ZA" tvg-language="eng" tvg-quality="576i",TshwaneTV.za
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSN1.ca
+http://40.160.24.55/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSN2.ca
+http://40.160.24.55/TSN_2/index.m3u8
+
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSN3.ca
 https://tsn1.shaanp76.workers.dev/
+
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSN3.ca
+http://40.160.24.55/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSN4.ca
+http://40.160.24.55/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSN5.ca
+http://40.160.24.55/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="TSNTheOcho.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",TSNTheOcho.ca
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -22149,13 +22583,31 @@ https://all3media-international-undercoverboss-1-nz.samsung.wurl.tv/playlist.m3u
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
-http://168.228.44.241:9997/play/a09e/index.m3u8
+http://108.181.20.255:27347/livehttpplay?channel_id=23094
+
+#EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
+http://108.181.20.255:27347/livehttpplay?channel_id=23094
+
+#EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
+http://108.181.20.255:27347/livehttpplay?channel_id=23094
 
 #EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
 http://168.228.44.241:9997/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
 http://168.228.44.241:9997/play/a09e/index.m3u8
+
+#EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
+http://168.228.44.241:9997/play/a09e/index.m3u8
+
+#EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
+http://108.181.20.255:27347/livehttpplay?channel_id=23093
+
+#EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
+http://108.181.20.255:27347/livehttpplay?channel_id=23093
+
+#EXTINF:-1 tvg-id="UniMas.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniMas.us
+http://108.181.20.255:27347/livehttpplay?channel_id=23093
 
 #EXTINF:-1 tvg-id="Unite8Sports2.in" group-title="IN" tvg-language="eng" tvg-quality="1080i",Unite8Sports2.in
 https://mini.allinonereborn.fun/tata.php?id=11624
@@ -22169,6 +22621,9 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalCinema.us
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCinema.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalCinema.us
+http://200.91.32.158:8080/universalcinemahd/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalComedy.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalComedy.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -22193,6 +22648,21 @@ https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCrime.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalCrime.us
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalCrime.us
+http://200.91.32.158:8080/universalcrimehd/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalCrime.us
+http://200.91.32.158:8080/universalcrimehd/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalPremiere.us
+http://200.91.32.158:8080/universalpremierehd/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalPremiere.us
+http://200.91.32.158:8080/universalpremierehd/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalReality.us" group-title="US" tvg-language="eng" tvg-quality="480i",UniversalReality.us
+http://200.91.32.158:8080/universalrealityhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision.us" group-title="US" tvg-language="eng" tvg-quality="480i",Univision.us
 http://200.115.120.1:8000/play/ca106/index.m3u8
@@ -22251,6 +22721,9 @@ https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" group-title="r/UN" tvg-language="eng" tvg-quality="480i",UNWebTV.us
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-id="UpTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",UpTV.us
+http://40.160.24.55/Up_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",USANetwork.us
 http://206.212.244.63/168/index.m3u8
 
@@ -22262,6 +22735,12 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",USANetwork.us
 http://40.160.24.55/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",USANetwork.us
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",USANetwork.us
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="USATODAY.us" group-title="US" tvg-language="eng" tvg-quality="480i",USATODAY.us
 https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8
@@ -22460,6 +22939,18 @@ http://cdn.haititivi.com/VH1/mpegts
 
 #EXTINF:-1 tvg-id="VH1.us" group-title="US" tvg-language="eng" tvg-quality="480i",VH1.us
 http://cdn.haititivi.com/VH1/mpegts
+
+#EXTINF:-1 tvg-id="VH1.us" group-title="US" tvg-language="eng" tvg-quality="480i",VH1.us
+http://40.160.24.55/VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1.us" group-title="US" tvg-language="eng" tvg-quality="480i",VH1.us
+http://40.160.24.55/VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1.us" group-title="US" tvg-language="eng" tvg-quality="480i",VH1.us
+http://40.160.24.55/VH1_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1.us" group-title="US" tvg-language="eng" tvg-quality="480i",VH1.us
+http://40.160.24.55/VH1_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="VH1QueensofReality.us" group-title="US" tvg-language="eng" tvg-quality="720p",VH1QueensofReality.us
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
@@ -22681,6 +23172,9 @@ https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us" group-title="US" tvg-language="eng" tvg-quality="480i",WeatherNation.us
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" group-title="US" tvg-language="eng" tvg-quality="480i",WeatherNation.us
+http://40.160.24.55/WEATHER_NATION/index.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us" group-title="US" tvg-language="eng" tvg-quality="480i",WeatherNation.us
 https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
@@ -23060,6 +23554,12 @@ https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBC471.us" group-title="ct/USNYC" tvg-language="eng" tvg-quality="1080i",WNBC471.us
 https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WNetwork.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",WNetwork.ca
+http://40.160.24.55/W_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="WNetwork.ca" group-title="CA" tvg-language="eng" tvg-quality="480i",WNetwork.ca
+http://40.160.24.55/W_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="WNJT521.us" group-title="ct/USTTN" tvg-language="eng" tvg-quality="1080i",WNJT521.us
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 
@@ -23110,6 +23610,9 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="WorldChannel.us" group-title="US" tvg-language="eng" tvg-quality="480i",WorldChannel.us
 https://world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",WorldFishingNetwork.us
+http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WorldHarvestTV.us" group-title="US" tvg-language="eng" tvg-quality="480i",WorldHarvestTV.us
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
@@ -23527,6 +24030,9 @@ https://yahoo-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YesNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",YesNetwork.us
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="YesNetwork.us" group-title="US" tvg-language="eng" tvg-quality="480i",YesNetwork.us
+http://40.160.24.55/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="YoMTV.us" group-title="CA" tvg-language="eng" tvg-quality="720p",YoMTV.us
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
