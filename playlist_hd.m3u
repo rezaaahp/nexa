@@ -57,9 +57,6 @@ https://cafefhls.wns.live/hls/stream.m3u8
 https://clshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DatisTV.ir" group-title="IR" tvg-language="fas" tvg-quality="720p",DatisTV.ir
-https://dathls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="DatisTV.ir" group-title="IR" tvg-language="fas" tvg-quality="720p",DatisTV.ir
 https://ronhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DejTV.ir" group-title="IR" tvg-language="fas" tvg-quality="720p",DejTV.ir
@@ -77,14 +74,8 @@ https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="icnet3.ca" group-title="IR" tvg-language="fas" tvg-quality="720p",icnet3.ca
 https://ic3hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="IraneFardaTV.uk" group-title="US, IR" tvg-language="fas" tvg-quality="720p",IraneFardaTV.uk
-https://hls.iranfarda.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="IranNationalRevolutionTV.us" group-title="IR" tvg-language="fas" tvg-quality="720p",IranNationalRevolutionTV.us
 https://hls.irannrtv.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="KhabarbinTV.ir" group-title="IR" tvg-language="fas" tvg-quality="720p",KhabarbinTV.ir
-https://khbhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="KhalijTV.ir" group-title="IR" tvg-language="fas" tvg-quality="720p",KhalijTV.ir
 https://khalijhls.wns.live/hls/stream.m3u8
@@ -133,9 +124,6 @@ https://mardomhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaVibe.fr" group-title="IR" tvg-language="fas" tvg-quality="720p",PersianaVibe.fr
 https://raphls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PROSportInternational.my" group-title="IR" tvg-language="fas" tvg-quality="720p",PROSportInternational.my
-https://proshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="RasoulallahTv.ir" group-title="IR" tvg-language="fas" tvg-quality="1080p",RasoulallahTv.ir
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
